@@ -1,0 +1,6 @@
+Hosts:
+  api: localhost:37101
+Connections:
+  default:
+    Txt: "mongodb://localhost:27017/procdb"
+    PoolSize: 50
